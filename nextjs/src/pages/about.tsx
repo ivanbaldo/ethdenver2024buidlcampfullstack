@@ -8,7 +8,7 @@ export default function Home() {
       className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}
     >
     <p>This is my AWESOME about page.</p>
-    <p>It even autoreloads when you change it!</p>
+    <p>This was done at ethdenver.com 2024 on the Buidl Camp, highly recommend it.</p>
     </main>
   );
 }
